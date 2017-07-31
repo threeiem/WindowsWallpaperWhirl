@@ -1,4 +1,4 @@
-#Windows Wallpaper Whirl
+# Windows Wallpaper Whirl
 
 Allows for a single click to change the backgrounds in Windows 7, 8, 8.5 and 10. 
 
